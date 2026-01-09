@@ -1,12 +1,12 @@
-seaborn
-numpy
 pandas
-matplotlib
+numpy==1.26.0
+matplotlib==3.8.1
+seaborn==0.13.2
 
 jupyter
 jupyterlab
 
 tqdm
 scipy
-scikit-learn
+scikit-learn==1.0.2
 shap
