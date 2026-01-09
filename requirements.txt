@@ -1,0 +1,12 @@
+seaborn
+numpy
+pandas
+matplotlib
+
+jupyter
+jupyterlab
+
+tqdm
+scipy
+scikit-learn
+shap
