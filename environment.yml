@@ -12,4 +12,4 @@ dependencies:
   - pip
   - pip:
     - tensorflow==2.15.0
-    - -r requirements.txt  # if you have additional requirements
+    - -r requirements.txt
