@@ -1,0 +1,15 @@
+name: xai
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch::pytorch
+  - pytorch::pytorch-cuda=11.8
+  - jupyterlab
+  - pip
+  - pip:
+    - tensorflow==2.15.0
+    - -r requirements.txt  # if you have additional requirements
